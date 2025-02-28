@@ -4,42 +4,42 @@
         "drinks": [
             {
                 "name": "娜杯紅茶",
-                "price": {
+                "prices": {
                     "lPrice": 40
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/娜杯紅茶.png"
             },
             {
                 "name": "英倫伯爵紅茶",
-                "price": {
+                "prices": {
                     "lPrice": 35
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/英倫伯爵紅茶.png"
             },
             {
                 "name": "大正醇香紅茶",
-                "price": {
+                "prices": {
                     "lPrice": 35
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/大正醇香紅茶.png"
             },
             {
                 "name": "原片初露青茶",
-                "price": {
+                "prices": {
                     "lPrice": 35
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/原片初露青茶.png"
             },
             {
                 "name": "琥珀高峰烏龍",
-                "price": {
+                "prices": {
                     "lPrice": 35
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/琥珀高峰烏龍.png"
             },
             {
                 "name": "苿莉原淬綠茶",
-                "price": {
+                "prices": {
                     "lPrice": 35
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/苿莉原淬綠茶.png"
@@ -51,14 +51,14 @@
         "drinks": [
             {
                 "name": "水之森玄米抹茶",
-                "price": {
+                "prices": {
                     "lPrice": 45
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/水之森玄米抹茶.png"
             },
             {
                 "name": "玄米抹茶鮮奶",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 85
                 },
@@ -66,7 +66,7 @@
             },
             {
                 "name": "靜岡焙茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 85
                 },
@@ -74,7 +74,7 @@
             },
             {
                 "name": "焙焙烏龍拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 60,
                     "lPrice": 70
                 },
@@ -82,7 +82,7 @@
             },
             {
                 "name": "焙焙芋頭蒙布朗",
-                "price": {
+                "prices": {
                     "mPrice": 75,
                     "lPrice": 95
                 },
@@ -95,14 +95,14 @@
         "drinks": [
             {
                 "name": "輕纖蕎麥茶",
-                "price": {
+                "prices": {
                     "lPrice": 40
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/輕纖蕎麥茶.png"
             },
             {
                 "name": "輕纖蕎麥拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 60,
                     "lPrice": 70
                 },
@@ -110,21 +110,21 @@
             },
             {
                 "name": "原鄉冬瓜茶",
-                "price": {
+                "prices": {
                     "lPrice": 35
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/原鄉冬瓜茶.png"
             },
             {
                 "name": "焙香決明大麥",
-                "price": {
+                "prices": {
                     "lPrice": 30
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/焙香決明大麥.png"
             },
             {
                 "name": "焙香大麥拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -137,7 +137,7 @@
         "drinks": [
             {
                 "name": "芋頭鮮奶",
-                "price": {
+                "prices": {
                     "mPrice": 70,
                     "lPrice": 90
                 },
@@ -145,7 +145,7 @@
             },
             {
                 "name": "手炒黑糖鮮奶",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 85
                 },
@@ -153,7 +153,7 @@
             },
             {
                 "name": "法芙娜純可可鮮奶",
-                "price": {
+                "prices": {
                     "mPrice": 75,
                     "lPrice": 95
                 },
@@ -161,7 +161,7 @@
             },
             {
                 "name": "珍珠鮮奶",
-                "price": {
+                "prices": {
                     "mPrice": 70,
                     "lPrice": 90
                 },
@@ -169,7 +169,7 @@
             },
             {
                 "name": "嫩仙草凍奶",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 85
                 },
@@ -177,7 +177,7 @@
             },
             {
                 "name": "綠光純鮮奶家庭號",
-                "price": {
+                "prices": {
                     "lPrice": 169
                 },
                 "img": "https://raw.githubusercontent.com/twinkleStar8535/drinkMockData/main/綠光純鮮奶家庭號.png"
@@ -189,7 +189,7 @@
         "drinks": [
             {
                 "name": "娜杯紅茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 55,
                     "lPrice": 65
                 },
@@ -197,7 +197,7 @@
             },
             {
                 "name": "伯爵紅茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -205,7 +205,7 @@
             },
             {
                 "name": "大正紅茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -213,7 +213,7 @@
             },
             {
                 "name": "琥珀烏龍拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -221,7 +221,7 @@
             },
             {
                 "name": "茉香綠茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -229,7 +229,7 @@
             },
             {
                 "name": "原片青茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -237,7 +237,7 @@
             },
              {
                 "name": "珍珠伯爵紅茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 60,
                     "lPrice": 70
                 },
@@ -245,7 +245,7 @@
             },
             {
                 "name": "珍珠大正紅茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 60,
                     "lPrice": 70
                 },
@@ -253,7 +253,7 @@
             },
             {
                 "name": "珍珠娜杯紅茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 75
                 },
@@ -261,7 +261,7 @@
             },   
             {
                 "name": "布朗紅茶拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 75
                 },
@@ -269,7 +269,7 @@
             },
             {
                 "name": "伯爵可可拿鐵",
-                "price": {
+                "prices": {
                     "mPrice": 70,
                     "lPrice": 80
                 },
@@ -282,7 +282,7 @@
         "drinks": [
             {
                 "name": "熟釀青梅綠",
-                "price": {
+                "prices": {
                     "mPrice": 55,
                     "lPrice": 65
                 },
@@ -290,7 +290,7 @@
             },
             {
                 "name": "熟釀青梅檸",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -298,7 +298,7 @@
             },
             {
                 "name": "白甘蔗青茶",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -306,7 +306,7 @@
             },
             {
                 "name": "冬瓜青茶",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -314,7 +314,7 @@
             },
             {
                 "name": "冬瓜檸檬",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -322,7 +322,7 @@
             },
             {
                 "name": "冬瓜麥茶",
-                "price": {
+                "prices": {
                     "mPrice": 50,
                     "lPrice": 60
                 },
@@ -330,7 +330,7 @@
             },
              {
                 "name": "柳丁綠茶",
-                "price": {
+                "prices": {
                     "mPrice": 60,
                     "lPrice": 70
                 },
@@ -338,7 +338,7 @@
             },
             {
                 "name": "柳丁青茶",
-                "price": {
+                "prices": {
                     "mPrice": 60,
                     "lPrice": 70
                 },
@@ -346,7 +346,7 @@
             },
             {
                 "name": "青檸香茶",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 75
                 },
@@ -354,7 +354,7 @@
             },   
             {
                 "name": "蜂蜜檸檬晶凍",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 75
                 },
@@ -362,7 +362,7 @@
             },
             {
                 "name": "檸檬蜜Q晶凍",
-                "price": {
+                "prices": {
                     "mPrice": 70,
                     "lPrice": 80
                 },
@@ -370,7 +370,7 @@
             },
             {
                 "name": "香柚綠茶",
-                "price": {
+                "prices": {
                     "mPrice": 60,
                     "lPrice": 70
                 },
@@ -378,7 +378,7 @@
             },
             {
                 "name": "養樂多綠",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 75
                 },
@@ -386,7 +386,7 @@
             },   
             {
                 "name": "冰萃柳丁",
-                "price": {
+                "prices": {
                     "mPrice": 65,
                     "lPrice": 75
                 },
@@ -394,7 +394,7 @@
             },
             {
                 "name": "冰糖洛神梅",
-                "price": {
+                "prices": {
                     "mPrice": 70,
                     "lPrice": 80
                 },
